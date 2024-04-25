@@ -1,6 +1,7 @@
 #!/bin/bash 
 
 
+
 # Instructions: 
 # Please run the following command in the terminal where homework.sh is located to make the file executable.
 # chmod +x ./homework.sh
