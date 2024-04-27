@@ -35,12 +35,13 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 **What is the secret password?**
 ```
 Your answer here...
-
-
-
-
+Paper Rings
+10
+Meets
+Legacies
+Lucky
+Stars
 ```
-
 |Criteria|Complete|Incomplete|
 |---|---|---|
 |Secret Password|The user properly used the proper bash commands to find the secret password.|The user did not properly used the proper bash commands to find the secret password.|
